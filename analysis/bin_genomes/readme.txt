@@ -1,0 +1,1 @@
+Folder organization: input, output, procedure, apptainers
